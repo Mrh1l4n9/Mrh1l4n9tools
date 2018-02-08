@@ -4,7 +4,7 @@
 # Coded by Mrh1l4n9
 
 # Bersihkan Layar
-Clear
+clear
 
 #This colour
 green='\e[0;34m'
@@ -35,7 +35,7 @@ clear
 echo -e $green" Installing Dirbuster "
 sleep 1
 apt update && apt upgrade
-apt install python
+apt install python''
 git clone https://github.com/maurosoria/dirsearch.git
 cd ~/
 echo -e $green" T E R I N S T A L L "
