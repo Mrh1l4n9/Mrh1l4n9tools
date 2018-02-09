@@ -32,61 +32,61 @@ exit
 }
 
 echo ""
-echo -e $green" 01) Red Hawk"
-echo -e $green" 02) D-Tect"
-echo -e $green" 03) Hunner"
-echo -e $green" 04) WPScan"
-echo -e $green" 05) Webdav"
-echo -e $green" 06) Metasploit"
-echo -e $green" 07) Kali Nethunter"
-echo -e $green" 08) Ubuntu"
-echo -e $green" 09) Youtube Dl"
-echo -e $green" 10) viSQL "
-echo -e $green" 11) Weeman"
-echo -e $green" 12) WFDroid"
-echo -e $green" 13) FBBrute"
-echo -e $green" 14) Ngrok"
-echo -e $green" 15) Torshammer "
-echo -e $green" 16) RouterSploit "
-echo -e $green" 17) Hydra "
-echo -e $green" 18) Weevely "
-echo -e $green" 19) SQLMap "
-echo -e $green" 20) Dirbuster "
-echo -e $green" 21) admin finder "
-echo -e $green" 22) lokomedia exploiter "
-echo -e $green" 23) elfinder exploiter "
-echo -e $green" 24) magento add admin exploiter "
-echo -e $green" 25) scanner tools "
-echo -e $green" 26) bing dorker "
-echo -e $green" 27) katoolin "
-echo -e $green" 28) arch linux "
-echo -e $green" 29) linux fedora"
-echo -e $green" 30) hash-buster"
-echo -e $green" 31) sudo"
-echo -e $green" 32) aircrack-ng"
-echo -e $green" 33) joomscan"
-echo -e $green" 34) bing-ip2hosts"
-echo -e $green" 35) BlueMaho"
-echo -e $green" 36) Bluepot"
-echo -e $green" 37) honeypot"
-echo -e $green" 38) bot auto deface 1"
-echo -e $green" 39) bot auto deface 2"
-echo -e $green" 40) mailer sender cli"
-echo -e $green" 41) Wordpress Brute Force"
-echo -e $green" 42) Oh-myzsh theme for termux"
-echo -e $green" 43) instabot (instagram bot)"
-echo -e $green" 44) fsociety"
-echo -e $green" 45) Cms Scanner"
-echo -e $green" 46) Information Gathering"
-echo -e $green" 47) com_fabrik exploiter"
-echo -e $green" 48) com foxcontact exploiter"
-echo -e $green" 49) gmail brute force"
-echo -e $green" 50) ezsploit"
-echo -e $green" 51) spammer-grab sms"
-echo -e $green" 52) spammer call toko-pedia"
-echo -e $green" 53) The Fat Rat"
-echo -e $green" 54) IPGeolocation"
-echo -e $green" 55) exit"
+echo -e $blue" 01) Red Hawk"
+echo -e $blue" 02) D-Tect"
+echo -e $blue" 03) Hunner"
+echo -e $blue" 04) WPScan"
+echo -e $blue" 05) Webdav"
+echo -e $blue" 06) Metasploit"
+echo -e $blue" 07) Kali Nethunter"
+echo -e $blue" 08) Ubuntu"
+echo -e $blue" 09) Youtube Dl"
+echo -e $blue" 10) viSQL "
+echo -e $blue" 11) Weeman"
+echo -e $blue" 12) WFDroid"
+echo -e $blue" 13) FBBrute"
+echo -e $blue" 14) Ngrok"
+echo -e $blue" 15) Torshammer "
+echo -e $blue" 16) RouterSploit "
+echo -e $blue" 17) Hydra "
+echo -e $blue" 18) Weevely "
+echo -e $blue" 19) SQLMap "
+echo -e $blue" 20) Dirbuster "
+echo -e $blue" 21) admin finder "
+echo -e $blue" 22) lokomedia exploiter "
+echo -e $blue" 23) elfinder exploiter "
+echo -e $blue" 24) magento add admin exploiter "
+echo -e $blue" 25) scanner tools "
+echo -e $blue" 26) bing dorker "
+echo -e $blue" 27) katoolin "
+echo -e $blue" 28) arch linux "
+echo -e $blue" 29) linux fedora"
+echo -e $blue" 30) hash-buster"
+echo -e $blue" 31) sudo"
+echo -e $blue" 32) aircrack-ng"
+echo -e $blue" 33) joomscan"
+echo -e $blue" 34) bing-ip2hosts"
+echo -e $blue" 35) BlueMaho"
+echo -e $blue" 36) Bluepot"
+echo -e $blue" 37) honeypot"
+echo -e $blue" 38) bot auto deface 1"
+echo -e $blue" 39) bot auto deface 2"
+echo -e $blue" 40) mailer sender cli"
+echo -e $blue" 41) Wordpress Brute Force"
+echo -e $blue" 42) Oh-myzsh theme for termux"
+echo -e $blue" 43) instabot (instagram bot)"
+echo -e $blue" 44) fsociety"
+echo -e $blue" 45) Cms Scanner"
+echo -e $blue" 46) Information Gathering"
+echo -e $blue" 47) com_fabrik exploiter"
+echo -e $blue" 48) com foxcontact exploiter"
+echo -e $blue" 49) gmail brute force"
+echo -e $blue" 50) ezsploit"
+echo -e $blue" 51) spammer-grab sms"
+echo -e $blue" 52) spammer call toko-pedia"
+echo -e $blue" 53) The Fat Rat"
+echo -e $blue" 54) IPGeolocation"
+echo -e $blue" 55) exit"
 echo -e $white""
 read -p "[Mrh1l4n9@Tools]> " act;
 
@@ -99,7 +99,7 @@ apt update && apt upgrade
 apt install php
 apt install git
 git clone https://github.com/Tuhinshubhra/RED_HAWK
-echo -e $green" Done Install Cuk "
+echo -e $green" Sudah Terinstall Broo "
 fi
 
 if [ $act = 02 ] || [ $act = 02 ]
@@ -111,7 +111,7 @@ apt-get update && apt-get upgrade
 apt-get install git
 apt-get install python2
 git clone https://github.com/shawarkhanethicalhacker/D-TECT
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 03 ] || [ $act = 03 ]
@@ -123,7 +123,7 @@ apt-get update && apt-get upgrade
 apt install python
 apt install git
 git clone https://github.com/b3-v3r/Hunner
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 04 ] || [ $act = 04 ]
@@ -142,7 +142,7 @@ bundle config build.nokogiri --use-system-libraries
 bundle install
 ruby wpscan.rb --update
 cd ~/
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 05 ] || [ $act = 05 ]
@@ -160,7 +160,7 @@ cd ~/webdav
 wget https://pastebin.com/raw/HnVyQPtR -O webdav.py
 chmod 777 webdav.py
 cd ~/
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 06 ] || [ $act = 06 ]
@@ -174,7 +174,7 @@ apt install wget
 wget https://raw.githubusercontent.com/verluchie/termux-metasploit/master/install.sh
 chmod 777 install.sh
 sh install.sh
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 07 ] || [ $act = 07 ]
@@ -188,7 +188,7 @@ git clone https://github.com/Hax4us/Nethunter-In-Termux.git
 cd ~/Nethunter-In-Termux
 chmod 777 kalinethunter
 sh kalinethunter
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 08 ] || [ $act = 08 ]
@@ -207,7 +207,7 @@ sh ubuntu.sh
 echo " Fix network please wait "
 sleep 1
 echo "nameserver 8.8.8.8" > /data/data/com.termux/files/home/termux-ubuntu/ubuntu-fs/etc/resolv.conf
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Bro "
 fi
 
 if [ $act = 09 ] || [ $act = 09 ]
@@ -221,7 +221,7 @@ pip3 install mps_youtube
 pip3 install youtube_dl
 apt install mpv
 echo " Untuk menjalankannya ketik "mpsyt" tanpa tanda petik "
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 10 ] || [ $act = 10 ]
@@ -236,7 +236,7 @@ git clone https://github.com/blackvkng/viSQL.git
 cd ~/viSQL
 chmod 777 viSQL.py
 cd ~/
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 11 ] || [ $act = 11 ]
@@ -252,7 +252,7 @@ cd ~/weeman
 pip2 install beautifulsoup
 pip2 install bs4
 cd ~/
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Brooo "
 fi
 
 if [ $act = 12 ] || [ $act = 12 ]
@@ -268,7 +268,7 @@ wget https://raw.githubusercontent.com/bytezcrew/wfdroid-termux/master/wfdinstal
 chmod 777 wfdinstall
 sh wfdinstall
 cd ~/
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 13 ] || [ $act = 13 ]
@@ -287,7 +287,7 @@ wget http://override.waper.co/files/password.apk
 mv password.apk password.txt
 chmod 777 fbbrute.py
 cd ~/
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 14 ] || [ $act = 14 ]
@@ -301,7 +301,7 @@ cd ~/ngrok
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 unzip ngrok-stable-linux-arm.zip
 cd ~/
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 15 ] || [ $act = 15 ]
@@ -315,7 +315,7 @@ pkg install python
 pkg install git
 git clone https://github.com/cyweb/hammer
 cd ~/
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 16 ] || [ $act = 16 ]
@@ -331,7 +331,7 @@ cd routersploit
 pip install -r requirements.txt
 termux-fix-shebang rsf.py
 cd ~/
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 17 ] || [ $act = 17 ]
@@ -343,7 +343,7 @@ apt update && apt install -y wget
 apt install hydra
 wget http://scrapmaker.com/download/data/wordlists/dictionaries/rockyou.txt
 cd ~/
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 18 ] || [ $act = 18 ]
@@ -355,7 +355,7 @@ pkg update
 pkg upgrade
 git clone https://github.com/glides/Weevely
 cd ~/
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 19 ] || [ $act = 19 ]
@@ -367,7 +367,7 @@ apt update && apt upgrade
 apt install python2
 git clone https://github.com/sqlmapproject/sqlmap.git
 cd ~/
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 20 ] || [ $act = 20 ]
@@ -380,7 +380,7 @@ apt-get install python
 apt-get install git
 git clone https://github.com/maurosoria/dirsearch.git
 cd ~/
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 21 ] || [ $act = 21 ]
@@ -394,7 +394,7 @@ mkdir adfin
 cd ~/webdav
 wget https://pastebin.com/raw/32txZ6Qr -O adfin.php
 cd ~/
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 22 ] || [ $act = 22 ]
@@ -408,7 +408,7 @@ mkdir lokomed
 cd ~/lokomed
 wget https://pastebin.com/raw/sPpJRjCZ -O lokomedia.php
 cd ~/
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 echo -e $red" usage : php lokomedia.php a.txt "
 fi
 
@@ -423,7 +423,7 @@ mkdir elfinder
 cd ~/elfinder
 wget https://pastebin.com/raw/S7Y2V19h -O elfinder.php
 cd ~/
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 24 ] || [ $act = 24 ]
@@ -437,7 +437,7 @@ mkdir magento
 cd ~/magento
 wget https://pastebin.com/raw/PXkG73pG -O magento.php
 cd ~/
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 25 ] || [ $act = 25 ]
@@ -453,7 +453,7 @@ wget https://pastebin.com/raw/m79t1Zia -O scanner.py
 wget https://pastebin.com/raw/mgKxMWXh -O admins.1337
 wget https://pastebin.com/raw/EafKj98D -O files.1337
 cd ~/
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 echo -e $red" usage : python2 scanner.py site.com -m files "
 fi
 
@@ -468,7 +468,7 @@ mkdir bing
 cd ~/bing
 wget https://pastebin.com/raw/tjQY6Tsg -O dorker.php
 cd ~/
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 27 ] || [ $act = 27 ]
@@ -491,7 +491,7 @@ python2 katoolin.py
 Sisanya bisa mengikuti cara install di atas, Jika menemui masalah gpg error saat melakukan add repository install gnupg-curl dengan perintah pkg install gnupg-curl
 Untuk yg menggunakan termux dengan cpu arm64 (aarch64) tidak bisa menambahkan repositori kali linux karna kali linux tidak support aarch64, 
 jadi sebelum menginstall tools kali di termux wajib dengan android dengan arm32 jika arm64 gunakan gnuroot"
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 28 ] || [ $act = 28 ]
@@ -506,7 +506,7 @@ git clone https://github.com/sdrausty/termux-archlinux.git
 cd termux-archlinux 
 chmod +x setupTermuxArch.sh
 ./setupTermuxArch.sh
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 29 ] || [ $act = 29 ]
@@ -520,7 +520,7 @@ apt install wget
 git clone https://github.com/nmilosev/termux-fedora.git
 cd termux-fedora
 chmod +x termux-fedora.sh
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 30 ] || [ $act = 30 ]
@@ -532,7 +532,7 @@ apt update && apt upgrade
 apt install python2 && apt install git
 git clone https://github.com/UltimateHackers/Hash-Buster
 cd Hash-Buster
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 31 ] || [ $act = 31 ]
@@ -546,7 +546,7 @@ git clone https://github.com/st42/termux-sudo.git
 cd termux-sudo
 cat sudo > /data/data/com.termux/files/usr/bin/sudo
 chmod 700 /data/data/com.termux/files/usr/bin/sudo
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 32 ] || [ $act = 32 ]
@@ -556,7 +556,7 @@ echo -e $green" installing aircrack-ng "
 sleep 1
 apt-get update && apt-get upgrade
 apt-get install aircrack-ng
-echo -e $red" done install cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 33 ] || [ $act = 33 ]
@@ -568,7 +568,7 @@ apt-get update && apt-get upgrade
 apt-get install git
 apt-get install perl
 git clone https://github.com/rezasp/joomscan.git
-echo -e $red" done install cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 34 ] || [ $act = 34 ]
@@ -579,7 +579,7 @@ sleep 1
 apt-get update && apt-get upgrade
 apt-get install wget
 wget http://www.morningstarsecurity.com/downloads/bing-ip2hosts-0.4.tar.gz && tar -xzvf bing-ip2hosts-0.4.tar.gz && cp bing-ip2hosts-0.4/bing-ip2hosts /usr/local/bin/t
-echo -e $red" done install cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 35 ] || [ $act = 35 ]
@@ -590,7 +590,7 @@ sleep 1
 apt-get update && apt-get upgrade
 apt-get install git
 git clone git://git.kali.org/packages/bluemaho.git
-echo -e $red" done install cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 36 ] || [ $act = 36 ]
@@ -601,7 +601,7 @@ sleep 1
 apt-get update && apt-get upgrade
 apt-get install git
 git clone git://git.kali.org/packages/bluepot.git
-echo -e $red" done install cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 37 ] || [ $act = 37 ]
@@ -612,7 +612,7 @@ sleep 1
 apt-get update && apt-get upgrade
 apt-get install git && apt-get install php
 git clone https://github.com/whackashoe/php-spam-mail-honeypot.git
-echo -e $red" done install cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 38 ] || [ $act = 38 ]
@@ -631,7 +631,7 @@ unzip bot.zip
 cd xploit
 chmod 777 bot.pl
 echo -e $red" Lokasi bot ? /bot/xploit/bot.pl"
-echo -e $red" done install cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 39 ] || [ $act = 39 ]
@@ -644,7 +644,7 @@ apt-get install git && apt-get install perl
 git clone https://github.com/Moham3dRiahi/XAttacker
 cd XAttacker
 chmod 777 XAttacker.pl
-echo -e $red" done install cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 40 ] || [ $act = 40 ]
@@ -662,7 +662,7 @@ echo -e $red" note !! "
 echo -e $red" usage php sendmail.php notification:mailer <email> <subject> <body>; "
 echo -e $red" or "
 echo -e $red" php sendmail.php --help "
-echo -e $red" done install cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 41 ] || [ $act = 41 ]
@@ -674,7 +674,7 @@ apt-get update && apt-get upgrade
 apt-get install python2
 pip install request
 git clone https://github.com/atarantini/wpbf
-echo -e $red" done install cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 42 ] || [ $act = 42 ]
@@ -686,7 +686,7 @@ apt-get update && apt-get upgrade
 sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)"
 ~/.termux/colors.sh
 echo -e $red" ganti color ? ketik ~/.termux/colors.sh "
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 43 ] || [ $act = 43 ]
@@ -699,7 +699,7 @@ pkg install python2
 apt-get install git
 apt-get install nano
 git clone https://github.com/instabot-py/instabot.py
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 echo -e $red" Please wait... "
 echo -e $red" Please wait... "
 sleep 1
@@ -718,7 +718,7 @@ apt-get update && apt-get upgrade
 pkg install python
 apt-get install git
 git clone https://github.com/Manisso/fsociety
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 echo -e $red" Please wait... "
 echo -e $red" Please wait... "
 sleep 1
@@ -738,6 +738,7 @@ apt-get install git
 git clone https://github.com/Dionach/CMSmap.git
 sleep 1
 cd CMSmap
+echo -e $red" Sudah Terinstall Broo "
 echo -e $red" Usage: cmsmap.py -t <URL> "
 fi
 
@@ -753,6 +754,7 @@ git clone https://github.com/m4ll0k/Infoga.git infoga
 sleep 1
 cd infoga
 pip install -r req
+echo -e $red" Sudah Terinstall Broo "
 echo -e $red" Usage: python infoga.py "
 fi
 
@@ -806,7 +808,7 @@ apt-get update && apt-get upgrade
 apt-get install git
 git clone https://github.com/rand0m1ze/ezsploit
 sleep 1
-echo -e $red" Done Install cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 51 ] || [ $act = 51 ]
@@ -820,7 +822,7 @@ apt-get install python2
 pip install requests
 git clone https://github.com/p4kl0nc4t/Spammer-Grab/
 sleep 1
-echo -e $red" Done Install cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 52 ] || [ $act = 52 ]
@@ -836,7 +838,7 @@ git clone https://github.com/mrcakil/spam
 cd spam
 unzip toko-pedia.zip
 sleep 1
-echo -e $red" Done Install cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 53 ] || [ $act = 53 ]
@@ -850,7 +852,7 @@ git clone https://github.com/Screetsec/TheFatRat.git
 cd TheFatRat
 chmod +x setup.sh && ./setup.sh
 sleep 1
-echo -e $red" Done Install cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 54 ] || [ $act = 54 ]
@@ -866,7 +868,7 @@ cd IPGeolocation
 chmod +x ipgeolocation.py
 pip install -r requirements.txt
 sleep 1
-echo -e $red" Done Install cuk "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 55 ] || [ $act = 55 ]
@@ -881,5 +883,6 @@ echo -e $red" makasih ya "
 sleep 1
 echo -e $red" Bye ea :* "
 sleep 1
+echo -e $red" thanks to 4wsec & Mrcakil "
 exit
 fi
