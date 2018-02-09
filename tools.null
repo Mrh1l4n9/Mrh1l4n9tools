@@ -88,7 +88,7 @@ echo -e $green" 53) The Fat Rat"
 echo -e $green" 54) IPGeolocation"
 echo -e $green" 55) exit"
 echo -e $white""
-read -p "[mrcakil@Tools]> " act;
+read -p "[Mrh1l4n9@Tools]> " act;
 
 if [ $act = 01 ] || [ $act = 01 ]
 then
@@ -872,10 +872,6 @@ fi
 if [ $act = 55 ] || [ $act = 55 ]
 then
 echo -e $green" pesan terakhir "
-sleep 1
-echo -e $green" dear jomblo "
-sleep 1
-echo -e $green" jangan coli mulu cuk "
 sleep 1
 echo -e $green" Please Wait.... "
 sleep 1
