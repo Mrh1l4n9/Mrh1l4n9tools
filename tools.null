@@ -886,7 +886,7 @@ echo -e $red" makasih ya "
 sleep 1
 echo -e $red" Bye ea :* "
 sleep 1
-echo -e $red" Thanks to 4wsec & Mrcakil
+echo -e $red" Thanks to 4wsec & Mrcakil "
 sleep 1
 exit
 fi
