@@ -1,6 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # Auto Install Tools 
 # coded By Mrh1l4n9
+# Thanks To 4wsec & mrcakil
 
 # Bersihkan Layar
 clear
@@ -30,6 +31,9 @@ echo -e $white"[#]> Mrh1l4n9 Wuzz Here ... "
 read enter
 exit
 }
+
+echo -e $red
+figlet Mr_h1l4n9
 
 echo ""
 echo -e $green" 01) Red Hawk"
@@ -86,7 +90,8 @@ echo -e $green" 51) spammer-grab sms"
 echo -e $green" 52) spammer call toko-pedia"
 echo -e $green" 53) The Fat Rat"
 echo -e $green" 54) IPGeolocation"
-echo -e $green" 55) exit"
+echo -e $green" 55) SQLMate"
+echo -e $green" 56) exit"
 echo -e $white""
 read -p "[Mrh1l4n9@Tools]> " act;
 
@@ -875,6 +880,21 @@ echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 55 ] || [ $act = 55 ]
+then
+clear
+echo -e $green" Installing Sqlmate "
+sleep 1
+apt-get update && apt-get upgrade
+apt-get install git
+apt install python2
+git clone https://github.com/UltimateHackers/sqlmate.git
+cd sqlmate
+pip install -r requirements.txt
+sleep 1
+echo -e $red" Sudah Terinstall Broo "
+fi
+
+if [ $act = 56 ] || [ $act = 56 ]
 then
 echo -e $green" pesan terakhir "
 sleep 1
