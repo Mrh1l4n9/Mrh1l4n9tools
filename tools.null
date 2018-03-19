@@ -889,7 +889,7 @@ apt-get install git
 apt install python2
 git clone https://github.com/UltimateHackers/sqlmate.git
 cd sqlmate
-pip install -r requirements.txt
+pip2 install -r requirements.txt
 sleep 1
 echo -e $red" Sudah Terinstall Broo "
 fi
