@@ -1,10 +1,11 @@
-#!/data/data/com.termux/files/usr/bin/bash
+#!/bin/bash
 # Auto Install Tools 
 # coded By Mrh1l4n9
-# Thanks To 4wsec & mrcakil
 
 # Bersihkan Layar
 clear
+
+#This colour
 
 blue='\e[0;34'
 cyan='\e[0;36m'
@@ -32,66 +33,67 @@ read enter
 exit
 }
 
-echo -e $red
-figlet Mr_h1l4n9
+echo -e
+figlet Mrh1l4n9
 
-echo ""
-echo -e $green" 01) Red Hawk"
-echo -e $green" 02) D-Tect"
-echo -e $green" 03) Hunner"
-echo -e $green" 04) WPScan"
-echo -e $green" 05) Webdav"
-echo -e $green" 06) Metasploit"
-echo -e $green" 07) Kali Nethunter"
-echo -e $green" 08) Ubuntu"
-echo -e $green" 09) Youtube Dl"
-echo -e $green" 10) viSQL "
-echo -e $green" 11) Weeman"
-echo -e $green" 12) WFDroid"
-echo -e $green" 13) FBBrute"
-echo -e $green" 14) Ngrok"
-echo -e $green" 15) Torshammer "
-echo -e $green" 16) RouterSploit "
-echo -e $green" 17) Hydra "
-echo -e $green" 18) Weevely "
-echo -e $green" 19) SQLMap "
-echo -e $green" 20) Dirbuster "
-echo -e $green" 21) admin finder "
-echo -e $green" 22) lokomedia exploiter "
-echo -e $green" 23) elfinder exploiter "
-echo -e $green" 24) magento add admin exploiter "
-echo -e $green" 25) scanner tools "
-echo -e $green" 26) bing dorker "
-echo -e $green" 27) katoolin "
-echo -e $green" 28) arch linux "
-echo -e $green" 29) linux fedora"
-echo -e $green" 30) hash-buster"
-echo -e $green" 31) sudo"
-echo -e $green" 32) aircrack-ng"
-echo -e $green" 33) joomscan"
-echo -e $green" 34) bing-ip2hosts"
-echo -e $green" 35) BlueMaho"
-echo -e $green" 36) Bluepot"
-echo -e $green" 37) honeypot"
-echo -e $green" 38) bot auto deface 1"
-echo -e $green" 39) bot auto deface 2"
-echo -e $green" 40) mailer sender cli"
-echo -e $green" 41) Wordpress Brute Force"
-echo -e $green" 42) Oh-myzsh theme for termux"
-echo -e $green" 43) instabot (instagram bot)"
-echo -e $green" 44) fsociety"
-echo -e $green" 45) Cms Scanner"
-echo -e $green" 46) Information Gathering"
-echo -e $green" 47) com_fabrik exploiter"
-echo -e $green" 48) com foxcontact exploiter"
-echo -e $green" 49) gmail brute force"
-echo -e $green" 50) ezsploit"
-echo -e $green" 51) spammer-grab sms"
-echo -e $green" 52) spammer call toko-pedia"
-echo -e $green" 53) The Fat Rat"
-echo -e $green" 54) IPGeolocation"
-echo -e $green" 55) SQLMate"
-echo -e $green" 56) exit"
+# Isi co
+
+echo -e $blue" 01) Red Hawk "
+echo -e $blue" 02) D-Tect "
+echo -e $blue" 03) Hunner "
+echo -e $blue" 04) WPScan "
+echo -e $blue" 05) Webdav "
+echo -e $blue" 06) Metasploit "
+echo -e $blue" 07) Kali Nethunter "
+echo -e $blue" 08) Ubuntu "
+echo -e $blue" 09) Youtube Dl "
+echo -e $blue" 10) viSQL "
+echo -e $blue" 11) Weeman "
+echo -e $blue" 12) WFDroid "
+echo -e $blue" 13) FBBrute "
+echo -e $blue" 14) Ngrok "
+echo -e $blue" 15) Torshammer "
+echo -e $blue" 16) RouterSploit "
+echo -e $blue" 17) Hydra "
+echo -e $blue" 18) Weevely "
+echo -e $blue" 19) SQLMap "
+echo -e $blue" 20) Dirbuster "
+echo -e $blue" 21) admin finder "
+echo -e $blue" 22) lokomedia exploiter "
+echo -e $blue" 23) elfinder exploiter "
+echo -e $blue" 24) magento add admin exploiter "
+echo -e $blue" 25) scanner tools "
+echo -e $blue" 26) bing dorker "
+echo -e $blue" 27) katoolin "
+echo -e $blue" 28) arch linux "
+echo -e $blue" 29) linux fedora "
+echo -e $blue" 30) hash-buster "
+echo -e $blue" 31) sudo "
+echo -e $blue" 32) aircrack-ng "
+echo -e $blue" 33) joomscan "
+echo -e $blue" 34) bing-ip2hosts "
+echo -e $blue" 35) BlueMaho "
+echo -e $blue" 36) Bluepot "
+echo -e $blue" 37) honeypot "
+echo -e $blue" 38) bot auto deface 1 "
+echo -e $blue" 39) bot auto deface 2 "
+echo -e $blue" 40) mailer sender cli "
+echo -e $blue" 41) Wordpress Brute Force "
+echo -e $blue" 42) Oh-myzsh theme for termux "
+echo -e $blue" 43) instabot (instagram bot) "
+echo -e $blue" 44) fsociety "
+echo -e $blue" 45) Cms Scanner "
+echo -e $blue" 46) Information Gathering "
+echo -e $blue" 47) com_fabrik exploiter "
+echo -e $blue" 48) com foxcontact exploiter "
+echo -e $blue" 49) gmail brute force "
+echo -e $blue" 50) ezsploit "
+echo -e $blue" 51) spammer-grab sms "
+echo -e $blue" 52) spammer call toko-pedia "
+echo -e $blue" 53) The Fat Rat "
+echo -e $blue" 54) IPGeolocation "
+echo -e $blue" 55) SQLMate
+echo -e $blue" 56) exit "
 echo -e $white""
 read -p "[Mrh1l4n9@Tools]> " act;
 
@@ -104,7 +106,7 @@ apt update && apt upgrade
 apt install php
 apt install git
 git clone https://github.com/Tuhinshubhra/RED_HAWK
-echo -e $red" Sudah Terinstall Broo "
+echo -e $green" Sudah Terinstall Broo "
 fi
 
 if [ $act = 02 ] || [ $act = 02 ]
@@ -212,7 +214,7 @@ sh ubuntu.sh
 echo " Fix network please wait "
 sleep 1
 echo "nameserver 8.8.8.8" > /data/data/com.termux/files/home/termux-ubuntu/ubuntu-fs/etc/resolv.conf
-echo -e $red" Sudah Terinstall Broo "
+echo -e $red" Sudah Terinstall Bro "
 fi
 
 if [ $act = 09 ] || [ $act = 09 ]
@@ -226,7 +228,7 @@ pip3 install mps_youtube
 pip3 install youtube_dl
 apt install mpv
 echo " Untuk menjalankannya ketik "mpsyt" tanpa tanda petik "
-echo -e $red" Sudah Terinstall Bro "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 10 ] || [ $act = 10 ]
@@ -257,7 +259,7 @@ cd ~/weeman
 pip2 install beautifulsoup
 pip2 install bs4
 cd ~/
-echo -e $red" Sudah Terinstall Broo "
+echo -e $red" Sudah Terinstall Brooo "
 fi
 
 if [ $act = 12 ] || [ $act = 12 ]
@@ -413,7 +415,7 @@ mkdir lokomed
 cd ~/lokomed
 wget https://pastebin.com/raw/sPpJRjCZ -O lokomedia.php
 cd ~/
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 echo -e $red" usage : php lokomedia.php a.txt "
 fi
 
@@ -511,7 +513,7 @@ git clone https://github.com/sdrausty/termux-archlinux.git
 cd termux-archlinux 
 chmod +x setupTermuxArch.sh
 ./setupTermuxArch.sh
-echo -e $red" Sudah Terinstall "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 29 ] || [ $act = 29 ]
@@ -704,7 +706,7 @@ pkg install python2
 apt-get install git
 apt-get install nano
 git clone https://github.com/instabot-py/instabot.py
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 echo -e $red" Please wait... "
 echo -e $red" Please wait... "
 sleep 1
@@ -723,7 +725,7 @@ apt-get update && apt-get upgrade
 pkg install python
 apt-get install git
 git clone https://github.com/Manisso/fsociety
-echo -e $red" Done Install Cuk "
+echo -e $red" Sudah Terinstall Broo "
 echo -e $red" Please wait... "
 echo -e $red" Please wait... "
 sleep 1
@@ -743,6 +745,7 @@ apt-get install git
 git clone https://github.com/Dionach/CMSmap.git
 sleep 1
 cd CMSmap
+echo -e $red" Sudah Terinstall Broo "
 echo -e $red" Usage: cmsmap.py -t <URL> "
 fi
 
@@ -758,11 +761,9 @@ git clone https://github.com/m4ll0k/Infoga.git infoga
 sleep 1
 cd infoga
 pip install -r req
-sleep 1
 echo -e $red" Sudah Terinstall Broo "
 echo -e $red" Usage: python infoga.py "
 fi
-
 
 if [ $act = 47 ] || [ $act = 47 ]
 then
@@ -774,7 +775,7 @@ apt-get install wget
 apt-get install php
 wget https://pastebin.com/raw/LDvFvtUD -O com_fabrik.php
 sleep 1
-echo -e &red" Sudah Terinstall Broo "
+echo -e $red" Sudah Terinstall Broo "
 echo -e $red" Usage: php com_fabrik.php target.txt "
 fi
 
@@ -816,7 +817,7 @@ apt-get update && apt-get upgrade
 apt-get install git
 git clone https://github.com/rand0m1ze/ezsploit
 sleep 1
-echo -e $red" Sudah Terinstall Broo  "
+echo -e $red" Sudah Terinstall Broo "
 fi
 
 if [ $act = 51 ] || [ $act = 51 ]
@@ -882,16 +883,16 @@ fi
 if [ $act = 55 ] || [ $act = 55 ]
 then
 clear
-echo -e $green" Installing Sqlmate "
+echo -e $green" installing SQLMate "
 sleep 1
 apt-get update && apt-get upgrade
-apt-get install git
+apt install git
 apt install python2
 git clone https://github.com/UltimateHackers/sqlmate.git
 cd sqlmate
 pip2 install -r requirements.txt
 sleep 1
-echo -e $red" Sudah Terinstall Broo "
+echo -e $red" Sudah Terinstall Bro "
 fi
 
 if [ $act = 56 ] || [ $act = 56 ]
@@ -904,11 +905,7 @@ echo -e $green" suwon "
 sleep 1
 echo -e $red" makasih ya "
 sleep 1
-echo -e $red" Bye ea :* "
-sleep 1
 echo -e $red" Pahami yang satu maka akan paham yang lainnya "
 sleep 1
-echo -e $red" Thanks to 4wsec & Mrcakil "
-sleep 1
+echo -e $red" thanks to 4wsec & Mrcakil "
 exit
-fi
