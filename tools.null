@@ -33,7 +33,7 @@ read enter
 exit
 }
 
-echo -e
+echo -e $green
 figlet Mrh1l4n9
 
 # Isi co
