@@ -92,7 +92,7 @@ echo -e $blue" 51) spammer-grab sms "
 echo -e $blue" 52) spammer call toko-pedia "
 echo -e $blue" 53) The Fat Rat "
 echo -e $blue" 54) IPGeolocation "
-echo -e $blue" 55) SQLMate
+echo -e $blue" 55) SQLMate "
 echo -e $blue" 56) exit "
 echo -e $white""
 read -p "[Mrh1l4n9@Tools]> " act;
