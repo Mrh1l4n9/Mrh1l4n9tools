@@ -38,7 +38,7 @@ figlet Mrh1l4n9
 
 # Isi co
 
-echo -e
+echo ""
 echo -e $blue" 01) Red Hawk "
 echo -e $blue" 02) D-Tect "
 echo -e $blue" 03) Hunner "
