@@ -909,5 +909,6 @@ sleep 1
 echo -e $red" Pahami yang satu maka akan paham yang lainnya "
 sleep 1
 echo -e $red" thanks to 4wsec & Mrcakil "
+sleep 1
 exit
 fi
