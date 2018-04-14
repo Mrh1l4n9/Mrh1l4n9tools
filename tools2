@@ -38,6 +38,7 @@ figlet Mrh1l4n9
 
 # Isi co
 
+echo ""
 echo -e $blue" 01) Red Hawk "
 echo -e $blue" 02) D-Tect "
 echo -e $blue" 03) Hunner "
@@ -908,4 +909,6 @@ sleep 1
 echo -e $red" Pahami yang satu maka akan paham yang lainnya "
 sleep 1
 echo -e $red" thanks to 4wsec & Mrcakil "
+sleep 1
 exit
+fi
