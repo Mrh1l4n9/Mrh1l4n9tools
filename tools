@@ -33,21 +33,22 @@ read enter
 exit
 }
 
+echo ""
 echo -e $red""
 figlet Mrh1l4n9
 
 # Isi co
 
 echo ""
-echo -e $blue" 01) Red Hawk "
-echo -e $blue" 02) D-Tect "
-echo -e $blue" 03) Hunner "
-echo -e $blue" 04) WPScan "
-echo -e $blue" 05) Webdav "
-echo -e $blue" 06) Metasploit "
-echo -e $blue" 07) Kali Nethunter "
-echo -e $blue" 08) Ubuntu "
-echo -e $blue" 09) Youtube Dl "
+echo -e $blue" 1) Red Hawk "
+echo -e $blue" 2) D-Tect "
+echo -e $blue" 3) Hunner "
+echo -e $blue" 4) WPScan "
+echo -e $blue" 5) Webdav "
+echo -e $blue" 6) Metasploit "
+echo -e $blue" 7) Kali Nethunter "
+echo -e $blue" 8) Ubuntu "
+echo -e $blue" 9) Youtube Dl "
 echo -e $blue" 10) viSQL "
 echo -e $blue" 11) Weeman "
 echo -e $blue" 12) WFDroid "
@@ -96,7 +97,7 @@ echo -e $blue" 54) IPGeolocation "
 echo -e $blue" 55) SQLMate "
 echo -e $blue" 56) exit "
 echo -e $white""
-read -p "[Mrh1l4n9@Tools] " act;
+read -p "[Mrh1l4n9@Tools]>" act;
 
 if [ $act = 1 ] || [ $act = 01 ]
 then
